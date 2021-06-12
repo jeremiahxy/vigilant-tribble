@@ -1,2 +1,2 @@
 # vigilant-tribble
-Being vigilant ... for tribbles.
+Being vigilant ... for tribbles (and other stuff).
